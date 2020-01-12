@@ -1,0 +1,99 @@
+
+#asideseconde
+{
+	width:100%;
+	font-family: calibri;
+	font-size:100%;
+	background-color:white;
+	color:black; 
+	float:right;
+	margin-right: 5%
+	/*background-image: url(photo/infor.PNG);*/
+	
+}
+aside
+{
+	width:23.6%;
+	font-family: calibri;
+	font-size:100%;
+	color:black; 
+	float:right;
+	margin-right: 5%
+	
+}
+#firstaside
+{
+	width:100%;
+	font-family: calibri;
+	font-size:100%;
+	border-color:none;
+	background-color: white;
+	margin-right: 5%
+	/*background-image: url(photo/zaynab.PNG);*/
+	color:black; 
+	float:right;
+}
+#aside_article
+{
+	width:100%;
+	font-family: calibri;
+	font-size:100%;
+	border-color:none;
+	background-color: white;
+	margin-right: 5%
+	/*background-image: url(photo/zaynab.PNG);*/
+	color:black; 
+	float:right;
+}
+
+
+	/*body{background:url('photo/metroo.jpg')no-repeat;
+}
+background-size:100%;
+height: 140px;
+display:block;
+padding:0 ;
+margin:0;}*/
+body { 
+/*background: url(photo/informa.PNG) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+*/
+background-color:#E6E6FA ;
+}
+/*body {
+    background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+}*/
+#field{border: none;margin-left: 4%}
+#firstp{font-family: Arial (Corps CS);font-size: 30px;margin-left: 4%}
+#section_articles{background-color:white;width: 60.8%;text-align: justify;margin-left: 6%}
+#imgarticles{width: 900px;height:500px;}
+#sectiontitle{width: 100%;text-align: justify;}
+#articles{font-family:Calibri; font-size: 20px;width: 85%;text-align: justify;margin-left: 5%}
+#title_articles{font-family: Arial Rounded MT Bold;font-size: 30px;color:black;text-align: justify;width: 85%;margin-left: 5%}
+#section{background-color:#E6E6FA; background-size: 1000px; margin-left: 25px;width: 1480px;text-align: justify;}
+#aside_txt{text-align:justify;position: absolute;font-family: calibri;font-size: 20px;color: white}
+#photo_txt{width: 120px;height: 90px;margin-top: 15px;margin-left: 20px;border-radius: 5px}
+#menu_titre{ text-decoration: none;font-family: time new Roman;font-size: 25px;color: black;margin-left: 5px ;margin-right: 5px}
+#li_menu{padding: 20px 20px;border-bottom: 1px solid rgba(100,100,100,0.3)}
+#commentaire{background: #E6E6FA;box-shadow: 5px #ADD8E6;padding: 10px 10px 10px;margin-left: 590px;font-family: arial;color: grey}
+#laissecomm{color: #20B2AA;text-align: justify;font-family: time new Roman;font-size: 30px}
+#votreaddr{color: darkgrey;text-align: justify;}
+#input{box-shadow: 5px #ADD8E6;padding: 6px 15px 10px;border-radius: 5px}
+#textarea{border-radius: 5px}
+input:focus{ border-color:blue;
+  box-shadow: 0 0 8px 0 blue;}
+textarea:focus{ border-color:blue;
+  box-shadow: 0 0 8px 0 blue;}
+#menu_titre{margin-left: 8%;}
+#buttom{background-color:#E6E6FA ;font-family: ARIAL;color: grey}
+#commentaire:hover{background-color: #6495ED}
+#imgAfficherPlus{width: 700px;height: 320px;margin-left: 8%}
+#imgDate{width:30px ;height:30px}

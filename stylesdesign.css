@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+header { 
+background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(photo/artificial-intelligence3-600x495.JPG) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-position: center;
+height: 450px;
+}
+
+.logo img
+{
+	float: left;
+	width: 150px;
+	height: auto;
+}
+
